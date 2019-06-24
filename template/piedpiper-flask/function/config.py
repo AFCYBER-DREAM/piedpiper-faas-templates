@@ -6,7 +6,7 @@
 #        "secret_key": "",
 #    },
 #    "name": "noop",
-#    "executor_url": "http://172.17.0.1:8080/async-function/piedpiper-noop-executor",
+#    "executor_url": "http://172.17.0.1:8080/async-function/piperci-noop-executor",
 # }
 """
 Configuration parameters for your FaaS function.

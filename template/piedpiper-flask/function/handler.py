@@ -1,10 +1,10 @@
 import tempfile
 import os
 from flask import g
-from piedpiper.gman import client as gman_client
-from piedpiper.artman import artman_client
-from piedpiper.storeman.client import storage_client
-from piedpiper.sri import generate_sri
+from piperci.gman import client as gman_client
+from piperci.artman import artman_client
+from piperci.storeman.client import storage_client
+from piperci.sri import generate_sri
 
 from .util import read_secrets, gman_activate, unzip_files
 from .config import Config

@@ -1,2 +1,2 @@
-# piedpiper-faas-templates
-OpenFaaS templates for piedpiper FaaS functions
+# piperci-faas-templates
+OpenFaaS templates for piperci FaaS functions

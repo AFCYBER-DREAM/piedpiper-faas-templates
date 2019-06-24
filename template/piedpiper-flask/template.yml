@@ -1,3 +1,3 @@
 ---
-language: flask-piedpiper
+language: piperci-flask
 fprocess: python index.py
